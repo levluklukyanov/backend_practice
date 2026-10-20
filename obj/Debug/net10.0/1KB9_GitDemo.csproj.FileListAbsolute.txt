@@ -1,0 +1,16 @@
+D:\Prog_Proj\Python_proj\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog_Proj\Python_proj\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.AssemblyInfoInputs.cache
+D:\Prog_Proj\Python_proj\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.AssemblyInfo.cs
+D:\Prog_Proj\Python_proj\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.csproj.CoreCompileInputs.cache
+D:\Prog_Proj\Python_proj\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.sourcelink.json
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\bin\Debug\net10.0\1KB9_GitDemo.deps.json
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\bin\Debug\net10.0\1KB9_GitDemo.dll
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\bin\Debug\net10.0\1KB9_GitDemo.pdb
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.AssemblyInfoInputs.cache
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.AssemblyInfo.cs
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.csproj.CoreCompileInputs.cache
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.dll
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\refint\1KB9_GitDemo.dll
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\1KB9_GitDemo.pdb
+C:\Users\виктория\Documents\1KB9_GitDemo\1KB9_GitDemo\1KB9_GitDemo\obj\Debug\net10.0\ref\1KB9_GitDemo.dll
