@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\виктория\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\виктория\\Documents\\1KB9_GitDemo\\1KB9_GitDemo\\1KB9_GitDemo\\1KB9_GitDemo.csproj",
+      "projectUniqueName": "D:\\Prog_Proj\\Python_proj\\1KB9_GitDemo\\1KB9_GitDemo.csproj",
       "projectName": "1KB9_GitDemo",
-      "projectPath": "C:\\Users\\виктория\\Documents\\1KB9_GitDemo\\1KB9_GitDemo\\1KB9_GitDemo\\1KB9_GitDemo.csproj",
-      "packagesPath": "C:\\Users\\виктория\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\виктория\\Documents\\1KB9_GitDemo\\1KB9_GitDemo\\1KB9_GitDemo\\obj\\",
+      "projectPath": "D:\\Prog_Proj\\Python_proj\\1KB9_GitDemo\\1KB9_GitDemo.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Prog_Proj\\Python_proj\\1KB9_GitDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\виктория\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "D:\\Programs\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

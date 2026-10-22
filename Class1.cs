@@ -6,7 +6,27 @@ namespace _1KB9_GitDemo
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("");
+            while (true)
+            {
+                Console.Write("Вы любите код? ");
+
+                string otvet = (Console.ReadLine() ?? "").ToLower().Trim();
+                
+                if (otvet == "да")
+                {
+                    Console.WriteLine("Ура!");
+                    break;
+                }
+                else if (otvet == "нет")
+                {
+                    Console.WriteLine("Плохой мальчик!");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Непонятно!");
+                }
+            }
         }
     }
 }
